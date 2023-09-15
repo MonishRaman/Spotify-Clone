@@ -10,12 +10,12 @@ let masterSongName = document.getElementById('masterSongName');
 let songItems = Array.from(document.getElementsByClassName('songItem'));
 
 let songs = [
-    {songName: "Na Ready--Aniruth Ravichandran", filePath: "songs/1.mp3", coverPath: "covers/1.jpg"},
-    {songName: "Hukum--Aniruth Ravichandran", filePath: "songs/2.mp3", coverPath: "covers/2.jpg"},
-    {songName: "Arabic Kuthu--Aniruth Ravichandran", filePath: "songs/3.mp3", coverPath: "covers/3.jpeg"},
-    {songName: "Private Party--Aniruth Ravichandran", filePath: "songs/4.mp3", coverPath: "covers/4.jpeg"},
-    {songName: "King of Kotha--Uvan Shankarraja", filePath: "songs/5.mp3", coverPath: "covers/5.jpeg"},
-    {songName: "Pablo Escobar--Harris Jayraj", filePath: "songs/6.mp3", coverPath: "covers/6.jpeg"},
+    {songName: "Na Ready--Aniruth Ravichandran", filePath: "songs/1.mp3", coverPath: "1.jpg"},
+    {songName: "Hukum--Aniruth Ravichandran", filePath: "songs/2.mp3", coverPath: "2.jpg"},
+    {songName: "Arabic Kuthu--Aniruth Ravichandran", filePath: "songs/3.mp3", coverPath: "3.jpeg"},
+    {songName: "Private Party--Aniruth Ravichandran", filePath: "songs/4.mp3", coverPath: "4.jpeg"},
+    {songName: "King of Kotha--Uvan Shankarraja", filePath: "songs/5.mp3", coverPath: "5.jpeg"},
+    {songName: "Pablo Escobar--Harris Jayraj", filePath: "songs/6.mp3", coverPath: "6.jpeg"},
     
 ]
 
